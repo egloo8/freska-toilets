@@ -1,0 +1,1 @@
+export const apiURL = 'https://toilets.freska.io'
